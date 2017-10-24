@@ -1,0 +1,10 @@
+.view-content h2 {
+  font-size:30px !important;
+}
+#page {
+  background-color:#f0f1f2 !important;
+}
+div.views-col {
+  margin-right:15px;
+  width:31.333% !important;
+}
