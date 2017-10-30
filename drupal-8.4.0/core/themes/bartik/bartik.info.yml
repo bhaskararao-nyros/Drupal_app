@@ -45,6 +45,8 @@ regions:
   footer_third: 'Footer third'
   footer_fourth: 'Footer fourth'
   footer_fifth: 'Footer fifth'
+javascripts:
+  - js/script.js
 
 # Information added by Drupal.org packaging script on 2017-10-04
 version: '8.4.0'

@@ -796,5 +796,6 @@ $databases['default']['default'] = array (
 $settings['install_profile'] = 'standard';
 $config_directories['sync'] = 'sites/default/files/config_vwk-INZOzkwzGeTNmT8pX78n9PB6xiu9Qzw_qP8kL2-q1Di5t6I_uVAAu1m6JXIGyBCCqna7mw/sync';
 $settings['trusted_host_patterns'] = array(
+	'^10.90.90.55$',
   '^localhost$',
  );

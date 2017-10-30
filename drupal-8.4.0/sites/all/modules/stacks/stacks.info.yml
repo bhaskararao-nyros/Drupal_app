@@ -1,0 +1,16 @@
+name: Stacks
+type: module
+description: Main code for the stacks system.
+# core: 8.x
+package: Stacks
+
+dependencies:
+  - libraries
+  - chosen
+  - inline_entity_form
+  - field_group
+# Information added by Drupal.org packaging script on 2017-05-12
+version: '8.x-1.0-beta1'
+core: '8.x'
+project: 'stacks'
+datestamp: 1494592497

@@ -1,0 +1,14 @@
+name: 'Example: Custom Code Content Feed'
+type: module
+description: 'Example module using the content feed code outside of a widget.'
+package: Stacks
+dependencies:
+  - stacks
+  - stacks_content_feed
+
+# core: '8.x'
+# Information added by Drupal.org packaging script on 2017-05-12
+version: '8.x-1.0-beta1'
+core: '8.x'
+project: 'stacks'
+datestamp: 1494592497
